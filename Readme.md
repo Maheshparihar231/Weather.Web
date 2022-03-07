@@ -10,3 +10,6 @@ To get your API_KEY sighup to the http://openweathermap.org and get the key and 
 
 No Licence 
 No copyrights
+
+
+deployed Website https://maheshparihar231.github.io/Weather.Web/
