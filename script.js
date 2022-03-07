@@ -9,6 +9,8 @@ const currentTemp = document.getElementById('current-temp');
 const weekdays = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday']
 const months = ['Jan','Feb','Mar','Apr','May','June','July','Aug','Sept','Oct','Nov','Dec']
 
+//Replace your API_KEY here
+
 const API_KEY = 'cdf08fbc27774dd01bd183c39d8b52fd';
 
 setInterval(()=>{
